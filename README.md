@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/clouduserp920743160804/tesproject/_apis/build/status/akthodu.pipelines-java?branchName=master)](https://dev.azure.com/clouduserp920743160804/tesproject/_build/latest?definitionId=4&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
